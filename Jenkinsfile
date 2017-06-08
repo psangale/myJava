@@ -6,6 +6,7 @@ echo 'Running unit tests'
 stage 'Run acceptence tests'
 echo 'Running acceptence tests'
 stage ' Deploy to test env'
+  
 echo ' Deploying app to test'
 stage 'Run performance load-test'
 echo ' Running performance and load test'
