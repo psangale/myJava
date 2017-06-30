@@ -9,7 +9,7 @@ stage ' Deploy to test env'
 echo ' Deploying app to test'
 stage 'Run performance load-test'
 echo ' Running performance and load test'
-  $
+ 
 stage 'Deploy to prod'
 echo 'Deploying on production'
 }
